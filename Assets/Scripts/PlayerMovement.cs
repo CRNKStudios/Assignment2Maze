@@ -54,6 +54,8 @@ public class PlayerMovement : MonoBehaviour {
 		if (rb) rb.freezeRotation = true;
 		originalRotation = transform.localRotation;
 		PlayerPrefs.SetInt("playerscore", 0);
+		walk.Stop();
+		wall.Stop();
 	}
 
 	public static float ClampAngle (float angle, float min, float max)
