@@ -11,27 +11,15 @@ Welcome to our maze generator game! In this game try to run through the maze as 
 - `f` - toggle fog effect
 - `` ` `` - toggle noclip
 - `HOME` or `r` - respawn
+- `,` - delete
+- `n` - save
+- `m` - load
+- `q` - shoot ball
+- `e` - toggle flashlight
+- `p` - toggle music
 
-## Mac
-- `w` - forward
-- `a` - left
-- `s` - back
-- `d` - right
-- mouse - look around with the camera
-- `f` - toggle fog effect
-- `` ` `` - toggle noclip
-- `HOME` or `r` - respawn
-
-## Controller - PC/Mac
-- left joystick - movement (forward, back, left, right)
-- right joystick - look around with the camera
-- `B` Button - toggle fog
-- `Y` Button - toggle noclip
-- `START` Button - respawn
-
-## Mobile
-- left joystick - movement (forward, back, left, right)
-- right joystick - look around with the camera
-- three finger tap - respawn
-- fog button - toggle fog
-- noclip butotn - toggle noclip
+### Pong Controls
+- `w` - player 1 up
+- `s` - player 1 down
+- `i` - player 2 up
+- `k` - player 2 down
